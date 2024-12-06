@@ -1,0 +1,10 @@
+.card{
+    text-align: center;
+    margin-top: 100px;
+    color: greenyellow;
+    text-shadow: 0px 0px 80px greenyellow;
+    font-size: 100px;
+}
+body{
+    background-color: black;
+}
